@@ -26,7 +26,7 @@ let age = 25;
 ```
 
 ---
-以下は[google](google.com)から引用
+以下は[google](https://www.google.com/)から引用
 >引用はこのように表現される。
 
 強調はアスタリスク2つ→**2つ**　で表現
